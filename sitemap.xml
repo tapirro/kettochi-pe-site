@@ -481,6 +481,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://kettochi.pe/ingredientes/acido-alfa-lipoico/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://kettochi.pe/ingredientes/ajo-negro/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
@@ -511,13 +517,109 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://kettochi.pe/ingredientes/jengibre/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/ingredientes/te-verde/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://kettochi.pe/condiciones/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://kettochi.pe/condiciones/cetoacidosis-prevencion/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/colesterol-alto-diabetes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://kettochi.pe/condiciones/diabetes-tipo-2/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/dolor-pies-diabetes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/fatiga-diabetica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/glucosa-alta-en-ayunas/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/hemoglobina-glicosilada/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/heridas-que-no-sanan/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/higado-graso/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/hipoglucemia-reactiva/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/infecciones-diabetes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/nefropatia-diabetica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/neuropatia-diabetica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/obesidad-diabetes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/pie-diabetico/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -535,21 +637,33 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://kettochi.pe/ingredientes/te-verde/</loc>
+    <loc>https://kettochi.pe/condiciones/retinopatia-diabetica/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://kettochi.pe/ingredientes/jengibre/</loc>
+    <loc>https://kettochi.pe/condiciones/sed-excesiva/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://kettochi.pe/ingredientes/acido-alfa-lipoico/</loc>
+    <loc>https://kettochi.pe/condiciones/sindrome-metabolico/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/trigliceridos-altos/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/vision-borrosa-diabetes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
