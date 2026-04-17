@@ -535,6 +535,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://kettochi.pe/condiciones/acantosis-nigricans-diabetes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://kettochi.pe/condiciones/ansiedad-por-glucosa/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -542,6 +548,18 @@
   </url>
   <url>
     <loc>https://kettochi.pe/condiciones/azucar-alta-mañanas/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/azucar-alta-por-estres/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/calambres-nocturnos-diabetes/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -559,6 +577,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-juvenil-tipo-2/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://kettochi.pe/condiciones/diabetes-tipo-2-dieta/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -566,6 +590,18 @@
   </url>
   <url>
     <loc>https://kettochi.pe/condiciones/diabetes-tipo-2/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-alcohol/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-apnea-sueno/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -583,7 +619,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-covid-secuelas/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://kettochi.pe/condiciones/diabetes-y-depresion/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-embarazo/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -595,13 +643,97 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-fertilidad/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://kettochi.pe/condiciones/diabetes-y-higado/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-hipertension/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-huesos/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-inflamacion-cronica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-intestino/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-memoria/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-osteoporosis/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-piel/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://kettochi.pe/condiciones/diabetes-y-riñones/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-salud-bucal/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-salud-dental/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-sistema-inmune/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-tiroides/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/diabetes-y-viajes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/dificultad-cicatrizacion-diabetes/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -661,7 +793,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://kettochi.pe/condiciones/hiperglucemia-nocturna/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://kettochi.pe/condiciones/hipoglucemia-reactiva/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/hongos-pies-diabetes/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -721,6 +865,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://kettochi.pe/condiciones/polineuropatia-diabetica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://kettochi.pe/condiciones/prediabetes/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -763,51 +913,9 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://kettochi.pe/condiciones/diabetes-y-salud-dental/</loc>
+    <loc>https://kettochi.pe/condiciones/vision-doble-diabetes/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://kettochi.pe/condiciones/diabetes-y-piel/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://kettochi.pe/condiciones/azucar-alta-por-estres/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://kettochi.pe/condiciones/diabetes-y-memoria/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://kettochi.pe/condiciones/diabetes-y-fertilidad/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://kettochi.pe/condiciones/diabetes-y-huesos/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://kettochi.pe/condiciones/diabetes-y-sistema-inmune/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://kettochi.pe/condiciones/diabetes-juvenil-tipo-2/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
