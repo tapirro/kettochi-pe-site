@@ -86,19 +86,31 @@
   </url>
   <url>
     <loc>https://kettochi.pe/condiciones/acantosis-nigricans-diabetes/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-19</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/resistencia-a-la-insulina-hepatica/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://kettochi.pe/condiciones/prediabetes-y-sobrepeso-juvenil/</loc>
+    <lastmod>2026-04-19</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://kettochi.pe/condiciones/trigliceridos-altos-metabolico/</loc>
-    <lastmod>2026-04-18</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://kettochi.pe/condiciones/colesterol-alto-diabetes/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
