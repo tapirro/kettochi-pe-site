@@ -361,20 +361,84 @@ a:hover{text-decoration:underline}
     <strong>Kettochi</strong> — Solicita información
   </p>
   <div class="trust-cluster"><span>📋 DIGESA Certificado</span> <span>🏭 GMP Certificado</span> <span>🇵🇪 Hecho en Perú</span> <span>✓ Validado por Especialistas</span> <span>📦 Pago contra entrega</span> <span>💯 30 días garantía</span></div>
+  <!-- R3: Bundle pricing selector -->
+  <style>
+  .bundle-selector {
+    display: flex; gap: 8px; margin-bottom: 1rem; flex-wrap: wrap; justify-content: center;
+  }
+  .bundle-card {
+    flex: 1; min-width: 90px; max-width: 160px;
+    border: 2px solid #e2e8f0; border-radius: 12px; padding: 12px 8px;
+    text-align: center; cursor: pointer; position: relative;
+    transition: border-color 0.2s, box-shadow 0.2s; background: #fff;
+  }
+  .bundle-card:has(input:checked) {
+    border-color: #FF6B35; box-shadow: 0 0 0 3px rgba(255,107,53,0.15);
+  }
+  .bundle-card input[type="radio"] { display: none; }
+  .bundle-badge {
+    position: absolute; top: -10px; left: 50%; transform: translateX(-50%);
+    background: #FF6B35; color: #fff; font-size: 0.65rem; font-weight: 700;
+    padding: 2px 8px; border-radius: 10px; white-space: nowrap;
+  }
+  .bundle-name { display: block; font-weight: 600; font-size: 0.9rem; color: #334155; margin-bottom: 4px; }
+  .bundle-price { display: block; font-size: 1.15rem; font-weight: 800; color: #1a1a1a; }
+  .bundle-anchor { display: block; font-size: 0.8rem; color: #94a3b8; }
+  .bundle-unit { display: block; font-size: 0.75rem; color: #64748b; margin-top: 2px; }
+  .bundle-savings { display: block; font-size: 0.7rem; color: #16a34a; font-weight: 600; margin-top: 2px; }
+  .bundle-disclaimer { display: block; font-size: 0.7rem; color: #94a3b8; text-align: center; margin-bottom: 0.75rem; }
+  </style>
+  <div class="bundle-selector">
+    <label class="bundle-card">
+      <input type="radio" name="bundle" value="1" data-price="139" data-unit="139">
+      <span class="bundle-name">1 frasco</span>
+      <span class="bundle-price">S/139</span>
+    </label>
+    <label class="bundle-card recommended">
+      <input type="radio" name="bundle" value="3" data-price="375" data-unit="125" checked>
+      <span class="bundle-badge">Más vendido</span>
+      <span class="bundle-name">3 frascos</span>
+      <span class="bundle-price">S/375</span>
+      <span class="bundle-unit">S/125 c/u</span>
+      <span class="bundle-savings">Ahorras S/42</span>
+    </label>
+    <label class="bundle-card">
+      <input type="radio" name="bundle" value="6" data-price="659" data-unit="109">
+      <span class="bundle-name">6 frascos</span>
+      <span class="bundle-price">S/659</span>
+      <span class="bundle-unit">S/109 c/u</span>
+      <span class="bundle-savings">Ahorras S/175</span>
+    </label>
+  </div>
+  <small class="bundle-disclaimer">Precio referencial. Precio final confirmado por teléfono antes del envío.</small>
   <form action="https://lead-capture.mantissa-bot.workers.dev/" method="POST" style="max-width:400px;margin:0 auto">
+    <input type="hidden" name="quantity" value="3"><input type="hidden" name="bundle_total_price" value="375"><input type="hidden" name="unit_price_at_purchase" value="125">
     <input type="hidden" name="product" value="kettochi">
     <input type="hidden" name="source" value="kettochi.pe">
-    <input type="text" name="name" placeholder="Tu nombre" required
+    <input type="text" name="name" placeholder="Nombre completo" required autocomplete="name"
       style="width:100%;padding:10px;margin-bottom:8px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box">
-    <input type="tel" name="phone" placeholder="Tu teléfono" required
+    <input type="tel" name="phone" inputmode="tel" placeholder="+51 9XX XXX XXX" required
       style="width:100%;padding:10px;margin-bottom:8px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box">
-    <input type="text" name="city" placeholder="Ciudad"
-      style="width:100%;padding:10px;margin-bottom:12px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box">
+    <select name="city" required style="width:100%;padding:10px;margin-bottom:8px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box;background:#fff"><option value="">Ciudad</option><option>Lima</option><option>Arequipa</option><option>Trujillo</option><option>Chiclayo</option><option>Piura</option><option>Cusco</option><option>Huancayo</option><option>Iquitos</option><option>Otra</option></select>
+    <label style="display:flex;align-items:flex-start;gap:6px;margin-bottom:12px;font-size:.78rem;color:#666;cursor:pointer"><input type="checkbox" name="consent" required style="margin-top:2px;flex-shrink:0"><span>Acepto el tratamiento de mis datos según la <a href="/privacidad" style="color:#2563eb">política de privacidad</a></span></label>
     <button type="submit"
       style="width:100%;padding:12px;background:#1a5632;color:#fff;border:none;border-radius:8px;font-size:1rem;font-weight:bold;cursor:pointer">
-      Solicitar Información →
+      Pedir con descuento — Pago contra entrega
     </button>
+    <ul style="list-style:none;padding:0;margin:.8rem 0 0;display:flex;justify-content:center;gap:.8rem;flex-wrap:wrap;font-size:.75rem;color:#666"><li>✓ Envío gratis</li><li>✓ Pago contra entrega</li><li>✓ 30 días garantía</li></ul>
   </form>
+  <script>
+  (function(){
+    document.querySelectorAll('.bundle-selector input[type=radio]').forEach(function(r){
+      r.addEventListener('change', function(){
+        var q = this.value, p = this.dataset.price, u = this.dataset.unit;
+        document.querySelectorAll('input[name=quantity]').forEach(function(h){ h.value = q; });
+        document.querySelectorAll('input[name=bundle_total_price]').forEach(function(h){ h.value = p; });
+        document.querySelectorAll('input[name=unit_price_at_purchase]').forEach(function(h){ h.value = u; });
+      });
+    });
+  })();
+  </script>
   <p style="font-family:Arial,sans-serif;font-size:.72rem;color:#888;text-align:center;margin-top:.6rem">
     ✅ Registro Sanitario N8319724N · Fabricante Hilart S.A.C. · Sin compromiso
   </p>
